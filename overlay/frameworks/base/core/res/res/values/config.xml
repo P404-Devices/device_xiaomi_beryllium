@@ -218,5 +218,5 @@
     <dimen name="rounded_corner_radius">104px</dimen>
     
     <!-- Statusbar Icon Size -->
-    <dimen name="status_bar_icon_size">15dp</dimen>
+    <dimen name="status_bar_icon_size">16dp</dimen>
 </resources>
