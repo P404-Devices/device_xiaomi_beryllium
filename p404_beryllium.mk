@@ -28,5 +28,8 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 # Boot animation resolution.
 TARGET_BOOT_ANIMATION_RES := 1080
 
+#404
+P404_BUILDTYPE=SHINKA
+
 # Face Unlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
